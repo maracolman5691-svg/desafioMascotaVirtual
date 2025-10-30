@@ -1,4 +1,5 @@
 # importar el modulo random
+import random
 # import imagen desde el archivo mascota.py
 
 
